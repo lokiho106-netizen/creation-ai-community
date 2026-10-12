@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#1967D2</color>
+    <color name="brand_dark">#0D47A1</color>
+    <color name="surface">#F6F8FC</color>
+    <color name="ink">#172033</color>
+    <color name="muted">#5F6B7A</color>
+    <color name="success">#137333</color>
+    <color name="warning">#B06000</color>
+    <color name="danger">#B3261E</color>
+</resources>

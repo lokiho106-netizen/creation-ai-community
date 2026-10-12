@@ -1,0 +1,23 @@
+package com.creationai.community.automation;
+
+public enum WorkflowState {
+    IDLE,
+    PREFLIGHT,
+    OPEN_TOUTIAO,
+    SELECT_CHANNEL,
+    FIND_SEARCH,
+    ENTER_KEYWORD,
+    SCAN_RESULTS,
+    INSPECT_CANDIDATE,
+    SHARE_LINK,
+    RESOLVE_VIDEO,
+    DOWNLOAD_VIDEO,
+    REEDIT_VIDEO,
+    PREPARE_PUBLISH,
+    PICK_PUBLISH_VIDEO,
+    PREVIEW_PUBLISH_VIDEO,
+    WAIT_FOR_REVIEW,
+    COMPLETE,
+    PAUSED,
+    ERROR
+}

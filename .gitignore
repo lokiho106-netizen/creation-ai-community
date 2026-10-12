@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+
+# ---- 仅本机分析目录，不入库 ----
+phone-audit/
+extracted_lrj/
+docs/behavior-spec.md
+
+# ---- 仅本机使用的工作目录 ----
+tmp/
+output/
+dist/
+头条自动/
+
+# 本地临时副本，不属于社区版源码
+model-handoff/
+
+# 早期方案遗留文件，社区版不使用
+cloudflare-workers/
+
+# ---- Android / Gradle ----
+.gradle/
+build/
+community-app/local.properties
+local.properties
+*.iml
+.idea/
+
+# ---- 签名材料，绝不入库 ----
+*.jks
+*.keystore
+*.p12
+*.pepk
+
+# ---- 构建产物与素材文件 ----
+*.apk
+*.aab
+*.ap_
+*.mp4
+*.mov
+
+# ---- Python 工具缓存 ----
+__pycache__/
+*.pyc

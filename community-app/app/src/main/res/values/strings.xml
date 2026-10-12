@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket Studio</string>
+    <string name="accessibility_label">Pocket Studio · 今日头条操作助手</string>
+    <string name="accessibility_description">只读取并操作今日头条界面，用于执行用户确认的内容筛选和发布流程；不会读取密码或其他应用。</string>
+</resources>
